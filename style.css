@@ -10,8 +10,9 @@ h1 {
 
 body {
     margin-top: 05%;
-    background-color: #ebbe65b6;
+    background-color: #f3d495b6;
     margin-left: 05%;
     margin-right: 05%;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
 }
